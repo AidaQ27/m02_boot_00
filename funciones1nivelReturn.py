@@ -1,4 +1,4 @@
-
+#Funciones Lambda
 def maxi(*l):
     if len(l) == 0:
         return 0
